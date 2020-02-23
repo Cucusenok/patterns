@@ -1,0 +1,12 @@
+{
+    "name": "user/untitled",
+    "description": "The project with realisation OOP paterns",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Cucusenok",
+            "email": "tereshkin2364@mail.ru"
+        }
+    ],
+    "require": {}
+}
