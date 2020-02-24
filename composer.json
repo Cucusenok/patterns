@@ -12,7 +12,8 @@
 
     "autoload": {
         "psr-4": {
-            "fabricMethod\\":"fabricMethod/"
+            "fabricMethod\\":"fabricMethod/",
+            "Adapter\\":"adapter/"
         }
     }
 }
