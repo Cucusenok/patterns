@@ -8,5 +8,11 @@
             "email": "tereshkin2364@mail.ru"
         }
     ],
-    "require": {}
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "fabricMethod\\":"fabricMethod/"
+        }
+    }
 }
