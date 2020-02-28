@@ -14,7 +14,9 @@
         "psr-4": {
             "fabricMethod\\":"fabricMethod/",
             "Adapter\\":"adapter/",
-            "Singleton\\":"singleton/"
+            "Singleton\\":"singleton/",
+            "Visitor\\":"visitor/"
+
         }
     }
 }
